@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EAC2C93E1D4AF12900E282A8"
-               BuildableName = "hundredWholesale.app"
+               BuildableName = "100&#x6279;&#x53d1;&#x5546;&#x57ce;.app"
                BlueprintName = "hundredWholesale"
                ReferencedContainer = "container:hundredWholesale.xcodeproj">
             </BuildableReference>
@@ -53,7 +53,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EAC2C93E1D4AF12900E282A8"
-            BuildableName = "hundredWholesale.app"
+            BuildableName = "100&#x6279;&#x53d1;&#x5546;&#x57ce;.app"
             BlueprintName = "hundredWholesale"
             ReferencedContainer = "container:hundredWholesale.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EAC2C93E1D4AF12900E282A8"
-            BuildableName = "hundredWholesale.app"
+            BuildableName = "100&#x6279;&#x53d1;&#x5546;&#x57ce;.app"
             BlueprintName = "hundredWholesale"
             ReferencedContainer = "container:hundredWholesale.xcodeproj">
          </BuildableReference>
@@ -95,7 +95,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EAC2C93E1D4AF12900E282A8"
-            BuildableName = "hundredWholesale.app"
+            BuildableName = "100&#x6279;&#x53d1;&#x5546;&#x57ce;.app"
             BlueprintName = "hundredWholesale"
             ReferencedContainer = "container:hundredWholesale.xcodeproj">
          </BuildableReference>
